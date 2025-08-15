@@ -8,11 +8,11 @@ These clauses are foundational to collateral mechanics and counterparty obligati
 
 _What is being released?_
 
-- Adding `CounterpartyRoleEnum` to `PartyContactInformation`. 
-- Consolidation of `ThresholdRatedPartyEnum` and `MTARatedPartyEnum` into `RatedPartyEnum` and `ThresholdZeroEventEnum` and `MTAZeroEventEnum` into `ZeroEventEnum`
-- Creation of `DemandsAndNotices` type 
-- Relabelling of `otherEligibleSupport` to `otherEligibleSupportIM` in `CreditSupportObligations` createIQ synonym mapping 
-- Changing type of `demandsAndNotices` attribute from `ContactElection`  to `DemandsAndNotices` type in `CreditSupportAgreementElections` & `CollateralTransferAgreementElections`
+- Added `CounterpartyRoleEnum` to `PartyContactInformation`. 
+- Consolidated `ThresholdRatedPartyEnum` and `MTARatedPartyEnum` into `RatedPartyEnum` and `ThresholdZeroEventEnum` and `MTAZeroEventEnum` into `ZeroEventEnum`
+- Created `DemandsAndNotices` type 
+- Relabelled `otherEligibleSupport` to `otherEligibleSupportIM` in `CreditSupportObligations` createIQ synonym mapping 
+- Changed type of `demandsAndNotices` attribute from `ContactElection`  to `DemandsAndNotices` type in `CreditSupportAgreementElections` & `CollateralTransferAgreementElections`
 
 - _Review Directions_
 
